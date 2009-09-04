@@ -1,0 +1,13 @@
+Snow Leopard Formatting Fix
+===========================
+
+SO. For some reason, upgrading to Snow Leopard resulted in all my outgoing AIM messages being sent with a white background. This annoyed me because I'm anal like that. This Adium Plugin fixes that.
+
+Fix Synopsis
+============
+
+When this plugin is enabled via the "Format -> Strip BG color from outgoing messages" menu option, the plugin strips "NSBackgroundColor" and whatever AIBodyColorAttributeName resolves to from the NSAttributedString that the outgoing message is built from.
+
+Installation
+============
+
