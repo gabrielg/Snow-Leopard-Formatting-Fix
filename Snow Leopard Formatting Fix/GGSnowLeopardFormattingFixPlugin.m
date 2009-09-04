@@ -16,6 +16,7 @@
 #import <AIUtilities/AIAttributedStringAdditions.h>
 #import <AIUtilities/AIDictionaryAdditions.h>
 #import <AIUtilities/AIStringUtilities.h>
+#import <AIUtilities/AITextAttributes.h>
 
 @implementation GGSnowLeopardFormattingFixPlugin
 
@@ -65,7 +66,7 @@
 		NSLog(@"Removing BG attribute from message");
 		NSMutableAttributedString *ourAttributedString = [[inAttributedString mutableCopy] autorelease];
 		[ourAttributedString removeAttribute: @"NSBackgroundColor" range: NSMakeRange(0, [inAttributedString length])];
-		
+		[ourAttributedString removeAttribute: AIBodyColorAttributeName range: NSMakeRange(0, [inAttributedString length])];
 		return ourAttributedString;
 	}
 	

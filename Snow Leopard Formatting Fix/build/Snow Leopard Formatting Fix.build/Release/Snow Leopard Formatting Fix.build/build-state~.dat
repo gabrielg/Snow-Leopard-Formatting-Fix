@@ -1,0 +1,398 @@
+TSnow Leopard Formatting Fix
+v7
+r0
+t273785465.045995
+cCheck dependencies
+cProcessInfoPlistFile "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix" normal x86_64
+cLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix" normal i386
+cCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix" normal ppc
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/AIUtilities
+c000000004AA16825000000000011F9B8
+t1252091941
+s1178040
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/Headers/AIAttributedStringAdditions.h
+c000000004AA168080000000000002B6B
+t1252091912
+s11115
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/Headers/AIDictionaryAdditions.h
+c000000004AA168080000000000000AF2
+t1252091912
+s2802
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/Headers/AIMenuAdditions.h
+c000000004AA168080000000000000A03
+t1252091912
+s2563
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/Headers/AIStringUtilities.h
+c000000004AA16808000000000000028E
+t1252091912
+s654
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/Headers/AITextAttributes.h
+c000000004AA168080000000000001881
+t1252091912
+s6273
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Adium
+c000000004AA1685C000000000023D0E0
+t1252091996
+s2347232
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIAdiumProtocol.h
+c000000004AA1683200000000000019A0
+t1252091954
+s6560
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentControllerProtocol.h
+c000000004AA168320000000000002D91
+t1252091954
+s11665
+i<Adium/AIControllerProtocol.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentMessage.h
+c000000004AA168320000000000001139
+t1252091954
+s4409
+i<Adium/AIContentObject.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentObject.h
+c000000004AA1683200000000000036BE
+t1252091954
+s14014
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIControllerProtocol.h
+c000000004AA1683200000000000000BD
+t1252091954
+s189
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIMenuControllerProtocol.h
+c000000004AA168320000000000000C76
+t1252091954
+s3190
+i<Adium/AIControllerProtocol.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIPlugin.h
+c000000004AA168320000000000000505
+t1252091954
+s1285
+i<Adium/AISharedAdium.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIPreferenceControllerProtocol.h
+c000000004AA168320000000000000D70
+t1252091954
+s3440
+i<Adium/AIControllerProtocol.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AISharedAdium.h
+c000000004AA1683200000000000003C2
+t1252091954
+s962
+i<Adium/AIAdiumProtocol.h>
+
+N/Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/FriBidi.framework/FriBidi
+c000000004AA1682F0000000000028D6C
+t1252091951
+s167276
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/English.lproj/InfoPlist.strings
+c000000004AA145840000000000000030
+t1252083076
+s48
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h
+c000000004AA14B0100000000000001BD
+t1252084481
+s445
+i<Adium/AIPlugin.h>
+i<Adium/AISharedAdium.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m
+c000000004AA168220000000000000CBF
+t1252091938
+s3263
+i"GGSnowLeopardFormattingFixPlugin.h"
+i<Adium/AIAdiumProtocol.h>
+i<Adium/AIContentControllerProtocol.h>
+i<Adium/AIContentMessage.h>
+i<Adium/AIMenuControllerProtocol.h>
+i<Adium/AIPreferenceControllerProtocol.h>
+i<AIUtilities/AIMenuAdditions.h>
+i<AIUtilities/AIAttributedStringAdditions.h>
+i<AIUtilities/AIDictionaryAdditions.h>
+i<AIUtilities/AIStringUtilities.h>
+i<AIUtilities/AITextAttributes.h>
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch
+c000000004AA1458400000000000000BA
+t1252083076
+s186
+i<Cocoa/Cocoa.h>
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle
+t2
+s0
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle.dSYM
+t2
+s0
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Info.plist
+t1252092657
+s928
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/MacOS/Snow Leopard Formatting Fix
+t2
+s0
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+t1252092657
+s92
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/GGSnowLeopardFormattingFixPlugin.o
+t1252092664
+s19520
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix
+t1252092664
+s19140
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix.LinkFileList
+c000000004AA16AF100000000000000D9
+t1252092657
+s217
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/GGSnowLeopardFormattingFixPlugin.o
+t1252092665
+s20060
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix
+t1252092665
+s19840
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix.LinkFileList
+c000000004AA16AF100000000000000D8
+t1252092657
+s216
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/GGSnowLeopardFormattingFixPlugin.o
+t1252092664
+s26496
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix
+t2
+s0
+
+N/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix.LinkFileList
+c000000004AA16AF100000000000000DB
+t1252092657
+s219
+
+N/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch.gch
+t1252092664
+s52737616
+
+N/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch.gch
+t1252092662
+s55502640
+
+N/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch.gch
+t1252092661
+s52868880
+
+NInfo.plist
+c000000004AA1501200000000000003BB
+t1252085778
+s955
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies273785457#273785457#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s273785464.495127
+e273785464.727207
+r1
+xCompileC
+xbuild/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/GGSnowLeopardFormattingFixPlugin.o
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found
+lSLF07#2@122"Compile /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#273785464#0(321"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found1(22@52"No definition of protocol 'AIContentFilter' is found273785464#140#181#2(7@136"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273784738#9#0#9#0#0"0(13@170"No definition of protocol 'AIContentFilter' is found in /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(0#0#114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m4300882208#2503"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/i386" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -include "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/GGSnowLeopardFormattingFixPlugin.o"0#
+
+CCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s273785464.847019
+e273785465.020203
+r1
+xCompileC
+xbuild/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/GGSnowLeopardFormattingFixPlugin.o
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found
+lSLF07#2@122"Compile /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#273785465#0(321"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found1(22@52"No definition of protocol 'AIContentFilter' is found273785464#140#181#2(7@136"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273784738#9#0#9#0#0"0(13@170"No definition of protocol 'AIContentFilter' is found in /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(0#0#114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m4300882208#2497"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/ppc" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -include "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/GGSnowLeopardFormattingFixPlugin.o"0#
+
+CCompileC "build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/GGSnowLeopardFormattingFixPlugin.o" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s273785464.494147
+e273785464.706730
+r1
+xCompileC
+xbuild/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/GGSnowLeopardFormattingFixPlugin.o
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m: In function '-[GGSnowLeopardFormattingFixPlugin filterPriority]':
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:94: warning: conflicting types for '-(float)filterPriority'
+o/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentControllerProtocol.h:168: warning: previous declaration of '-(CGFloat)filterPriority'
+lSLF07#2@122"Compile /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#273785464#0(922"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:9:/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h:15: warning: no definition of protocol 'AIContentFilter' is found/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m: In function '-[GGSnowLeopardFormattingFixPlugin filterPriority]':/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m:94: warning: conflicting types for '-(float)filterPriority'/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentControllerProtocol.h:168: warning: previous declaration of '-(CGFloat)filterPriority'3(22@52"No definition of protocol 'AIContentFilter' is found273785464#140#181#2(7@136"In file included from /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273784738#9#0#9#0#0"0(13@170"No definition of protocol 'AIContentFilter' is found in /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273785464#18446744073709551615#0#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.h273777281#15#0#15#0#0"0(22@46"Conflicting types for '-(float)filterPriority'273785464#503#175#0(6@114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m273784738#94#0#94#0#25"conflicting types for '*'0(22@50"Previous declaration of '-(CGFloat)filterPriority'273785464#678#244#0(6@178"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug/Adium.framework/Headers/AIContentControllerProtocol.h273784754#168#0#168#0#0"0(0#0#114"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m4300882208#2509"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/x86_64" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -include "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/GGSnowLeopardFormattingFixPlugin.m" -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/GGSnowLeopardFormattingFixPlugin.o"0#
+
+CCopyStringsFile "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s273785457.711623
+e273785457.909324
+r1
+xCopyStringsFile
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings273785457#273785457#0(0"0(0#0#111"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/English.lproj/InfoPlist.strings4300882208#476"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/MacOS/Snow Leopard Formatting Fix" normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle.dSYM" "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/MacOS/Snow Leopard Formatting Fix"
+r0
+
+CLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix" normal i386
+s273785464.727303
+e273785464.850103
+r1
+xLd
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix
+xnormal
+xi386
+lSLF07#2@214"Link /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix273785464#273785464#0(0"0(0#0#0"4300882208#1098"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" -filelist "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Adium -framework AIUtilities -framework FriBidi -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/i386/Snow Leopard Formatting Fix"0#
+
+CLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix" normal ppc
+s273785465.020288
+e273785465.045917
+r1
+xLd
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix
+xnormal
+xppc
+lSLF07#2@213"Link /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix273785465#273785465#0(0"0(0#0#0"4300882208#1095"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" -filelist "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Adium -framework AIUtilities -framework FriBidi -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/ppc/Snow Leopard Formatting Fix"0#
+
+CLd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix" normal x86_64
+s273785464.707041
+e273785464.843753
+r0
+xLd
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix
+xnormal
+xx86_64
+old: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Adium, missing required architecture x86_64 in file
+old: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/AIUtilities, missing required architecture x86_64 in file
+old: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/FriBidi.framework/FriBidi, missing required architecture x86_64 in file
+oUndefined symbols:
+o  "_OBJC_METACLASS_$_AIPlugin", referenced from:
+o      _OBJC_METACLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.o
+o  "_adium", referenced from:
+o      -[GGSnowLeopardFormattingFixPlugin toggleFormattingFix:] in GGSnowLeopardFormattingFixPlugin.o
+o      -[GGSnowLeopardFormattingFixPlugin uninstallPlugin] in GGSnowLeopardFormattingFixPlugin.o
+o      -[GGSnowLeopardFormattingFixPlugin installPlugin] in GGSnowLeopardFormattingFixPlugin.o
+o  "_OBJC_CLASS_$_AIContentMessage", referenced from:
+o      __objc_classrefs__DATA@0 in GGSnowLeopardFormattingFixPlugin.o
+o  "_OBJC_CLASS_$_AIPlugin", referenced from:
+o      _OBJC_CLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@216"Link /Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix273785464#273785464#0(1237"ld: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Adium, missing required architecture x86_64 in fileld: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/AIUtilities, missing required architecture x86_64 in fileld: warning: in /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/FriBidi.framework/FriBidi, missing required architecture x86_64 in fileUndefined symbols:  "_OBJC_METACLASS_$_AIPlugin", referenced from:      _OBJC_METACLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.o  "_adium", referenced from:      -[GGSnowLeopardFormattingFixPlugin toggleFormattingFix:] in GGSnowLeopardFormattingFixPlugin.o      -[GGSnowLeopardFormattingFixPlugin uninstallPlugin] in GGSnowLeopardFormattingFixPlugin.o      -[GGSnowLeopardFormattingFixPlugin installPlugin] in GGSnowLeopardFormattingFixPlugin.o  "_OBJC_CLASS_$_AIContentMessage", referenced from:      __objc_classrefs__DATA@0 in GGSnowLeopardFormattingFixPlugin.o  "_OBJC_CLASS_$_AIPlugin", referenced from:      _OBJC_CLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.old: symbol(s) not foundcollect2: ld returned 1 exit status15(22@126"In /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/Adium.framework/Adium, missing required architecture x86_64 in file273785464#0#140#0(6@0"273785464#0#0#0#0#0"0(22@138"In /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/AIUtilities.framework/AIUtilities, missing required architecture x86_64 in file273785464#140#152#0(6@0"273785464#0#0#0#0#0"0(22@130"In /Users/gabriel/Code/Adium/adium-1.4/build/Release-Debug/FriBidi.framework/FriBidi, missing required architecture x86_64 in file273785464#292#144#0(6@0"273785464#0#0#0#0#0"0(4@46""_OBJC_METACLASS_$_AIPlugin", referenced from:273785464#455#49#0(6@0"273785464#0#0#0#0#0"0(13@88"_OBJC_METACLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.o273785464#504#95#0(6@0"273785464#0#0#0#0#0"0(4@26""_adium", referenced from:273785464#599#29#0(6@0"273785464#0#0#0#0#0"0(13@94"-[GGSnowLeopardFormattingFixPlugin toggleFormattingFix:] in GGSnowLeopardFormattingFixPlugin.o273785464#628#101#0(6@0"273785464#0#0#0#0#0"0(13@89"-[GGSnowLeopardFormattingFixPlugin uninstallPlugin] in GGSnowLeopardFormattingFixPlugin.o273785464#729#96#0(6@0"273785464#0#0#0#0#0"0(13@87"-[GGSnowLeopardFormattingFixPlugin installPlugin] in GGSnowLeopardFormattingFixPlugin.o273785464#825#94#0(6@0"273785464#0#0#0#0#0"0(4@50""_OBJC_CLASS_$_AIContentMessage", referenced from:273785464#919#53#0(6@0"273785464#0#0#0#0#0"0(13@62"__objc_classrefs__DATA@0 in GGSnowLeopardFormattingFixPlugin.o273785464#972#69#0(6@0"273785464#0#0#0#0#0"0(4@42""_OBJC_CLASS_$_AIPlugin", referenced from:273785464#1041#45#0(6@0"273785464#0#0#0#0#0"0(13@84"_OBJC_CLASS_$_GGSnowLeopardFormattingFixPlugin in GGSnowLeopardFormattingFixPlugin.o273785464#1086#91#0(6@0"273785464#0#0#0#0#0"0(13@19"Symbol(s) not found273785464#1177#24#0(6@0"273785464#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status273785464#1201#36#0(6@0"273785464#0#0#0#0#0"0(0#0#0"4300882208#1104"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" -filelist "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Adium -framework AIUtilities -framework FriBidi -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Objects-normal/x86_64/Snow Leopard Formatting Fix"1#
+
+CProcessInfoPlistFile "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Info.plist" Info.plist
+s273785457.708646
+e273785457.711561
+r1
+xProcessInfoPlistFile
+x/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist273785457#273785457#0(0"0(0#0#90"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Info.plist4300882208#321"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle/Contents/Info.plist"0#
+
+CProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal ppc objective-c com.apple.compilers.gcc.4_2
+s273785461.924902
+e273785464.493936
+r1
+xProcessPCH
+x/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch.gch
+xSnow Leopard Formatting Fix_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Precompile Snow Leopard Formatting Fix_Prefix.pch273785461#273785464#0(0"0(0#0#118"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch4300882208#2285"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/ppc" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch" -o "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-fzvdmynjpktjziezeifiowrunujx/Snow Leopard Formatting Fix_Prefix.pch.gch"0#
+
+CProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s273785457.910268
+e273785462.176337
+r1
+xProcessPCH
+x/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch.gch
+xSnow Leopard Formatting Fix_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Precompile Snow Leopard Formatting Fix_Prefix.pch273785457#273785462#0(0"0(0#0#118"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch4300882208#2290"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/i386" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch" -o "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gaxseqlwjdtmsifhmsourbjetbpg/Snow Leopard Formatting Fix_Prefix.pch.gch"0#
+
+CProcessPCH "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch.gch" "Snow Leopard Formatting Fix_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s273785457.909451
+e273785461.924671
+r1
+xProcessPCH
+x/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch.gch
+xSnow Leopard Formatting Fix_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Precompile Snow Leopard Formatting Fix_Prefix.pch273785457#273785461#0(0"0(0#0#118"/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch4300882208#2294"    cd "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-generated-files.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-own-target-headers.hmap" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-all-target-headers.hmap" -iquote "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/Snow Leopard Formatting Fix-project-headers.hmap" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release" "-F/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/../../../Adium/adium-1.4/build/Release-Debug" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/include" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources/x86_64" "-I/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Snow Leopard Formatting Fix.build/Release/Snow Leopard Formatting Fix.build/DerivedSources" -c "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/Snow Leopard Formatting Fix_Prefix.pch" -o "/var/folders/Fk/FkGXnGLEG5uyhLq5k8fOZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Snow Leopard Formatting Fix_Prefix-gzwezizfunpqpddddrpgjkodottg/Snow Leopard Formatting Fix_Prefix.pch.gch"0#
+
+CTouch "/Users/gabriel/Code/GitHub/SnowLeopardFormattingFix/Snow Leopard Formatting Fix/build/Release/Snow Leopard Formatting Fix.bundle"
+r0
+
